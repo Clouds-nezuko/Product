@@ -1,0 +1,30 @@
+.nate{
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: hsl(228, 12%, 48%) ;
+}
+.grow{
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    color:  black;
+    
+}
+.let{
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+color: hsl(228, 12%, 48%);
+}
+.like{
+    font-family: "Fraunces", serif;
+    font-weight: 700;
+    color:  hsl(158, 36%, 37%);
+}
+.time{
+    background-color: hsl(158, 36%, 37%) ;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
